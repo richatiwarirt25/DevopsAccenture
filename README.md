@@ -1,2 +1,3 @@
 # DevopsAccenture
-Testing CICD Git and Ansible
+This project repo we are going to use in this Devops 5 days learning lultiple times.
+
